@@ -1,4 +1,4 @@
-## Hi there 👋
+## About me 👨‍💻
 
 <!--
 **karuizawato/karuizawato** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,3 +14,5 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+- 🌱 I’m currently learning p5 a javascript library for creative code and explore other technologies like Python, CVS (GitHub and Git)... I like learn how to program a computer, practicing taskt with code. 🤔 I don't know if programmers dying in the era of Ai, butt I want to learn from scratch how to be a programmer. To me is awesome to know the building blocks of tech. Ovbiously I have to combine Ai in my workflow, but sinceresly I want to learn how to programm a machine from it's foundations.
